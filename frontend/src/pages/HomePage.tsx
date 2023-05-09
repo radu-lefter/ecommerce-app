@@ -1,5 +1,4 @@
 import { Col, Row } from 'react-bootstrap'
-import { Link } from 'react-router-dom'
 import axios from 'axios'
 import { useEffect, useReducer } from 'react'
 import LoadingBox from '../components/LoadingBox'
